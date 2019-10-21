@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/svportfolio/static/css/main.dcd0b05b.chunk.css",
+    "main.js": "/svportfolio/static/js/main.cd03523b.chunk.js",
+    "main.js.map": "/svportfolio/static/js/main.cd03523b.chunk.js.map",
+    "runtime-main.js": "/svportfolio/static/js/runtime-main.2d1ec737.js",
+    "runtime-main.js.map": "/svportfolio/static/js/runtime-main.2d1ec737.js.map",
+    "static/js/2.3d9a115d.chunk.js": "/svportfolio/static/js/2.3d9a115d.chunk.js",
+    "static/js/2.3d9a115d.chunk.js.map": "/svportfolio/static/js/2.3d9a115d.chunk.js.map",
+    "index.html": "/svportfolio/index.html",
+    "precache-manifest.bc78de94a1a565eb961b41c0cfaa1b7b.js": "/svportfolio/precache-manifest.bc78de94a1a565eb961b41c0cfaa1b7b.js",
+    "service-worker.js": "/svportfolio/service-worker.js",
+    "static/css/main.dcd0b05b.chunk.css.map": "/svportfolio/static/css/main.dcd0b05b.chunk.css.map",
+    "static/media/loader.4619c456.svg": "/svportfolio/static/media/loader.4619c456.svg",
+    "static/media/me.677632e9.svg": "/svportfolio/static/media/me.677632e9.svg",
+    "static/media/moon.297392bb.svg": "/svportfolio/static/media/moon.297392bb.svg",
+    "static/media/sun.ecafbc86.svg": "/svportfolio/static/media/sun.ecafbc86.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d1ec737.js",
+    "static/js/2.3d9a115d.chunk.js",
+    "static/css/main.dcd0b05b.chunk.css",
+    "static/js/main.cd03523b.chunk.js"
+  ]
+}
