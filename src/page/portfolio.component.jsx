@@ -23,6 +23,7 @@ import { ReactComponent as ProfilePic } from '../assets/images/me.svg'
 import { About } from '../components/about/about.component'
 import { LinkedIn } from '../components/linkedin/linkedin.component'
 import { Github } from '../components/github/github.component'
+import { Contact } from '../components/contact/contact.component'
 
 export const Portfolio = () => {
 
@@ -123,7 +124,9 @@ export const Portfolio = () => {
                                     : selectMenu === 'linkedin'
                                         ? <LinkedIn />
                                         : selectMenu === 'github'
-                                            ? <Github /> : ''
+                                            ? <Github />
+                                            : selectMenu === 'contact me'
+                                                ? <Contact /> : ''
 
                             }
                         </TerminalCMD>
